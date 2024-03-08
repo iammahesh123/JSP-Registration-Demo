@@ -27,4 +27,4 @@ To run this project locally, follow these steps:
 3. Click the "Register" button to submit the form.
 4. View the confirmation page to see the entered details.
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
